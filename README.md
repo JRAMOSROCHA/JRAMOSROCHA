@@ -24,18 +24,26 @@ Aqui estão algumas das linguagens de programação e tecnologias que estou fami
 ## 📫 Contato
 Fique à vontade para entrar em contato comigo para discutir colaborações, projetos interessantes ou qualquer outro assunto relacionado à programação. Estou ansioso para ouvir de você! 😊 👊
 
-  <a href="#" title="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" alt="Gmail"/></a>
-  <a href="#" title="LinkedIn">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joilson-rocha-970a7929a/" alt="LinkedIn"/></a>
-  <a href="#" title="WhatsApp">
-  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP" alt="WhatsApp"/></a>
-  <a href="#" title="Facebook">
-  <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/JoilsonRamosRocha" alt="Facebook"/></a>
-  <a href="#" title="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/joilsonramosrocha/" 
+  <a href="mailto:jramosrocha@gmail.com" title="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white" alt="Gmail"/></a>
 
-  <a href="https://x.com/JoilsonRocha18" title="Twitter"><img src="https://img.shields.io/twitter/follow/JoilsonRocha18" alt="Twitter" /></a>
+  <a href="mailto:jramosrocha@hotmail.com" title="Hotmail">
+  <img src="https://img.shields.io/badge/-Hotmail-0000FF?style=flat-square&labelColor=0000FF&logo=hotmail&logoColor=white" alt="Hotmail"/></a>
+  
+  <a href="https://www.linkedin.com/in/joilson-rocha-970a7929a" title="LinkedIn">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"/></a>
+  
+  <a href="#" title="WhatsApp">
+  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
+  
+  <a href="https://www.facebook.com/JoilsonRamosRocha" title="Facebook">
+  <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor" alt="Facebook"/></a>
+  
+  <a href="https://www.instagram.com/joilsonramosrocha" title="Instagram">
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white" alt="Instagram" /></a>
+
+  <a href="https://x.com/JoilsonRocha18" title="Twitter">
+  <img src="https://img.shields.io/twitter/follow/JoilsonRocha18" alt="Twitter" /></a>
 
 ### ⚙️ GitHub Analytics
 
