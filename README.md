@@ -28,10 +28,7 @@ Fique à vontade para entrar em contato comigo para discutir colaborações, pro
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white" alt="Gmail"/></a>
 
   <a href="mailto:jramosrocha@hotmail.com" title="Hotmail">
-  <img src="https://img.icons8.com/?size=48&id=13640&format=png" alt="Hotmail"/></a>
-
-  <a href="mailto:jramosrocha@hotmail.com" title="Hotmail">
-  <img src="https://img.shields.io/badge/-Hotmail-0e76a8?style=flat-square&logo=https://img.icons8.com/?size=48&id=13640&format=png&logoColor=white" alt="Hotmail"/></a>
+  <img src="https://img.shields.io/badge/-Hotmail-0e76a8?style=flat-square&logo=email&logoColor=white" alt="Hotmail"/></a>
   
   <a href="https://www.linkedin.com/in/joilson-rocha-970a7929a" title="LinkedIn">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"/></a>
