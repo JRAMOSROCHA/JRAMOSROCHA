@@ -34,10 +34,8 @@ Fique à vontade para entrar em contato comigo para discutir colaborações, pro
   <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/JoilsonRamosRocha" alt="Facebook"/></a>
   <a href="#" title="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/joilsonramosrocha/" alt="Instagram"/></a>
-  <a href="#" title="Twitter">
-  <img src="https://img.shields.io/twitter/follow/JoilsonRocha18?style=social=https://x.com/JoilsonRocha18" alt="Instagram"/></a>
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/SeuUsuario?style=social)]({Link}) <br><br>
+[![Twitter Follow](https://img.shields.io/twitter/follow/JoilsonRocha18?)]({[Link](https://x.com/JoilsonRocha18)}) <br><br>
 
 ### ⚙️ GitHub Analytics
 
