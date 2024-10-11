@@ -22,6 +22,8 @@ Aqui estão algumas das linguagens de programação e tecnologias que estou fami
 [![My Skills](https://skillicons.dev/icons?i=windows,git,github,visualstudio,vscode,eclipse,androidstudio)](https://skillicons.dev)<br><br>
 
 ## 📫 Contato
+Fique à vontade para entrar em contato comigo para discutir colaborações, projetos interessantes ou qualquer outro assunto relacionado à programação. Estou ansioso para ouvir de você! 😊 👊
+
   <a href="#" title="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" alt="Gmail"/></a>
   <a href="#" title="LinkedIn">
@@ -36,10 +38,6 @@ Aqui estão algumas das linguagens de programação e tecnologias que estou fami
   <img src="https://img.shields.io/twitter/follow/JoilsonRocha18?style=social=https://x.com/JoilsonRocha18" alt="Instagram"/></a>
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/SeuUsuario?style=social)]({Link}) <br><br>
-
-![Jramosrocha GitHub stats](https://github-readme-stats.vercel.app/api?username=jramosrocha&show_icons=true&theme=dark) <br><br>
-
-Fique à vontade para entrar em contato comigo para discutir colaborações, projetos interessantes ou qualquer outro assunto relacionado à programação. Estou ansioso para ouvir de você! 😊 👊
 
 ### ⚙️ GitHub Analytics
 
@@ -94,7 +92,7 @@ Fique à vontade para entrar em contato comigo para discutir colaborações, pro
 
 <p align="center">
   <img
-    src="https://profile-counter.glitch.me/iuricode/count.svg"
+    src="https://profile-counter.glitch.me/jramosrocha/count.svg"
     alt="Número de visitantes no perfil"
   />
 </p>
