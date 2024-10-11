@@ -11,19 +11,17 @@
 Aqui estão algumas das linguagens de programação e tecnologias que estou familiarizado:
 
 ## 👨‍💻 Linguagens: 
-[![My Skills](https://skillicons.dev/icons?i=c,cs,cpp,eclipse,javahtml,css,javascript)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cs,cpp,eclipse,java,html,css,javascript)](https://skillicons.dev)
 
 ## 🧰 Frameworks: 
-[![My Skills](https://skillicons.dev/icons?i=)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c)](https://skillicons.dev)
 
 ## 🗄️ Bancos de Dados: 
 [![My Skills](https://skillicons.dev/icons?i=mysql,postgres)](https://skillicons.dev)
 ## ⚙️ Ferramentas:
-[![My Skills](https://skillicons.dev/icons?i=git,github,visualstudio,vscode,windows,eclipse,androidstudio)](https://skillicons.dev)<br><br>
+[![My Skills](https://skillicons.dev/icons?i=windows,git,github,visualstudio,vscode,eclipse,androidstudio)](https://skillicons.dev)<br><br>
 
 ## 📫 Contato
-
-<p align="left">
   <a href="#" title="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" alt="Gmail"/></a>
   <a href="#" title="LinkedIn">
@@ -36,8 +34,6 @@ Aqui estão algumas das linguagens de programação e tecnologias que estou fami
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/joilsonramosrocha/" alt="Instagram"/></a>
   <a href="#" title="Twitter">
   <img src="https://img.shields.io/twitter/follow/JoilsonRocha18?style=social=https://x.com/JoilsonRocha18" alt="Instagram"/></a>
-</p>
-
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/SeuUsuario?style=social)]({Link}) <br><br>
 
