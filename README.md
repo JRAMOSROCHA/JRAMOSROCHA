@@ -35,9 +35,7 @@ Fique à vontade para entrar em contato comigo para discutir colaborações, pro
   <a href="#" title="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/joilsonramosrocha/" 
 
-  <a href="#" title="Twitter"><img src="https://img.shields.io/twitter/follow/JoilsonRocha18" alt="Twitter" /></a>
-
-[![Twitter Follow](<img src="https://img.shields.io/twitter/follow/JoilsonRocha18")]({https://x.com/JoilsonRocha18}) <br><br>
+  <a href="https://x.com/JoilsonRocha18" title="Twitter"><img src="https://img.shields.io/twitter/follow/JoilsonRocha18" alt="Twitter" /></a>
 
 ### ⚙️ GitHub Analytics
 
